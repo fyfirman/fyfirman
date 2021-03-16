@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a **freelancer too**. Looking for money to buy some bite of a McD.
 
 - 🌱 I’m currently focus learning on **React Native, React.js, Gatsby.js, and DevOPS things.**
-- 
+
 - ⚡ But sometimes i got project that use **Laravel and jQuery.**
 
 - 👨‍💻 You can know more about me at [fyfirman.tech](fyfirman.tech)
