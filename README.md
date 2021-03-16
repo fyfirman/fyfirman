@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyfirman&label=Profile%20views&color=f7fa1e&style=flat" alt="fyfirman" /> </p>
 
-- 🔭 I’m currently working as a **freelancer too. Looking for money to buy some bite of a McD.**
+- 🔭 I’m currently working as a **freelancer too**. Looking for money to buy some bite of a McD.
 
 - 🌱 I’m currently focus learning on **React Native, React.js, Gatsby.js, and DevOPS things.**
+- 
+- ⚡ But sometimes i got project that use **Laravel and jQuery.**
 
 - 👨‍💻 You can know more about me at [fyfirman.tech](fyfirman.tech)
 
 - 📝 Sometimes i write my experiences at [http://fyfirman.medium.com/](http://fyfirman.medium.com/)
-
-- ⚡ But sometimes i got project that use **Laravel and jQuery.**
 
 - 📫 Feel free to contact me at **hi@fyfirman.tech / fyfirman@gmail.com**
 
