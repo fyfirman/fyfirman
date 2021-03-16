@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyfirman&label=Profile%20views&color=f7fa1e&style=flat" alt="fyfirman" /> </p>
 
-- 🔭 I’m currently working as a **freelancer too**. Looking for money to buy some bite of a McD.
+- 🔭 I’m currently working as a **freelancer too**. Looking for some money to buy cup a coffee.
 
 - 🌱 I’m currently focus learning on **React Native, React.js, Gatsby.js, and DevOPS things.**
 
