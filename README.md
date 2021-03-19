@@ -7,7 +7,7 @@
 
 - ⚡ But sometimes i got project that use **Laravel and jQuery.**
 
-- 👨‍💻 You can know more about me at [fyfirman.tech](fyfirman.tech)
+- 👨‍💻 You can know more about me at [fyfirman.tech](http://fyfirman.tech)
 
 - 📝 Sometimes i write my experiences at [http://fyfirman.medium.com/](http://fyfirman.medium.com/)
 
