@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **freelancer** too. Looking for some money to buy cup a coffee.
 
-- 🌱 I’m currently focus learning on **React Native, React.js, Gatsby.js, and Devops things.**
+- 🌱 I’m currently focus learning on **React Native, React.js, and Gatsby.js.**
 
 - ⚡ But sometimes i got project that use **Laravel and jQuery.**
 
