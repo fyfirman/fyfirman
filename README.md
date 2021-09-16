@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Firmansyah Yanuar 👋</h1>
-<h3 align="center">Final Year Computer Science Student</h3>
+<h3 align="center"><del>Final Year Computer Science Student</del></h3>
 
 - 🔭 I’m currently working as a **freelancer** too. Looking for some money to buy cup a coffee.
 
