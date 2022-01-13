@@ -1,17 +1,15 @@
 <h1 align="center">Hi there, I'm Firmansyah Yanuar 👋</h1>
-<h3 align="center"><del>Final Year Computer Science Student</del></h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as a **freelancer** too. Looking for some money to buy cup a coffee.
+- 🔭 I’m currently working as **Jr. Frontend Engineer** at **Lemonilo**, playing around **React** ecosystem like **React Native & Next.js**. 
 
-- 🌱 I’m currently focus learning on **React Native, React.js, and Gatsby.js.**
+- ⚡ Eventhough mostly work on Frontend, i would be happy to work on Backend. As previosly, i experienced use **NodeJS and Laravel** as Backend Framework.
 
-- ⚡ But sometimes i got project that use **Laravel and jQuery.**
-
-- 👨‍💻 You can know more about me at [fyfirman.tech](http://fyfirman.tech)
+- 👨‍💻 You can know more about me at [fyfirman.com](http://fyfirman.com)
 
 - 📝 Sometimes i write my experiences at [http://fyfirman.medium.com/](http://fyfirman.medium.com/)
 
-- 📫 Feel free to contact me at **hi@fyfirman.tech / fyfirman@gmail.com**
+- 📫 Feel free to contact me at **fyfirman@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Programming Language</h4>
