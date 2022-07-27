@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Firmansyah Yanuar 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as **Jr. Frontend Engineer** at **Lemonilo**, playing around **React** ecosystem like **React Native & Next.js**. 
+- 🔭 I’m currently working as **Frontend Engineer** at **Autobahn Security**, playing around **React** ecosystem like **React Native & Next.js**. 
 
 - ⚡ Eventhough mostly work on Frontend, i would be happy to work on Backend. As previosly, i experienced use **NodeJS and Laravel** as Backend Framework.
 
