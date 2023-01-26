@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Firmansyah Yanuar 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as **Frontend Engineer** at **Autobahn Security**, playing around **React** ecosystem like **React Native & Next.js**. 
+- 🔭 I’m currently working as **Software Engineer** at **Autobahn Security**, playing around **React** with micro-frontend architecture, building the logic with Nest.JS, and maintaining the datastream with DBT. 
 
-- ⚡ Eventhough mostly work on Frontend, i would be happy to work on Backend. As previosly, i experienced use **NodeJS and Laravel** as Backend Framework.
+- ⚡ Most experienced in frontend development with Typescript
 
-- 👨‍💻 You can know more about me at [fyfirman.com](http://fyfirman.com)
+- 💕🗑️ Love to build my own unused app to explore something 
 
-- 📝 Sometimes i write my experiences at [http://fyfirman.medium.com/](http://fyfirman.medium.com/)
+- 👨‍💻 You can know more about me and read some my experience at [fyfirman.com](http://fyfirman.com)
 
 - 📫 Feel free to contact me at **fyfirman@gmail.com**
 
